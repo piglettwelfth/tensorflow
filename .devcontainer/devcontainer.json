@@ -1,0 +1,4 @@
+{
+  "image": "tensorflow/tensorflow:nightly-gpu:nightly-gpu",
+  "features": {}
+}
